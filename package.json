@@ -1,0 +1,1 @@
+{"description":"One funny, painfully honest comment above fragile production code — make.fun entry","license":"MIT","main":"main.ts","name":"comment-above-the-code","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
