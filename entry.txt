@@ -1,0 +1,1 @@
+// This only works because the login page loads first. Nobody knows what login has to do with invoices, and nobody is asking.
